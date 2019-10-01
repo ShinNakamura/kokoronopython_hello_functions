@@ -14,3 +14,7 @@ Pythonレッスンにて宿題として作成した課題の問題と答え
 | `03_hello_functions_A` | 実践的な解答例 |
 | `04_hello_functions.module` | 関数を外部モジュールへ切り出し |
 | `05_hello_functions.test` | テストを追加 |
+
+## Pythonテンプレート ##
+
+[Python_template.py](https://github.com/ShinNakamura/kokoronopython_hello_functions/blob/master/Python_template.py)
